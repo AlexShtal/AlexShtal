@@ -6,7 +6,7 @@ I'm learning data science
 
 * 🌍  I'm based in Omsk, Siberia
 * 💼  I study at the OmSTU on Faculty of Information Technology and Computer Systems at 
-* ✉️  You can contact me at [aleks205.773@gmail.com](mailto:aleks205.773@gmail.com)
+* ✉️  You can contact me at [aleks2015.773@gmail.com](mailto:aleks2015.773@gmail.com)
 * 🧠  I'm learning python
 * 🤝  I'm open to collaborating 
 
