@@ -1,9 +1,6 @@
 Hi 👋 My name is Alexander Shtaldeger
 ==================================
 
-I'm learning data science 
---------------------------------------
-
 * 🌍  I'm based in Omsk, Siberia
 * 💼  I study at the OmSTU on Faculty of Information Technology and Computer Systems
 * ✉️  You can contact me at [aleks2015.773@gmail.com](mailto:aleks2015.773@gmail.com)
@@ -22,13 +19,6 @@ src="https://img.shields.io/github/followers/AlexShtal?logo=github&style=for-the
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="36" height="36" alt="HTML" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="36" height="36" alt="CDD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-### Socials
-<p align="left"> 
-<a href="https://www.github.com/AlexShtal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://vk.com/masiynechka" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303449/vk-1-logo.svg" width="36" height="36" alt="Vk" /></a>
-<a href="https://t.me/Myakishkukish" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width="36" height="36" alt="telegram" /></a>
 </p>
 
 <!--
